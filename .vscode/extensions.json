@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "dsznajder.es7-react-js-snippets",
+    "bradlc.vscode-tailwindcss",
+    "formulahendry.auto-rename-tag",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "christian-kohler.path-intellisense",
+    "ms-vscode.vscode-json",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-next",
+    "ms-playwright.playwright",
+    "unifiedjs.vscode-mdx",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-next"
+  ]
+}
+
