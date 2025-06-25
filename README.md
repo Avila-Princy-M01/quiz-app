@@ -248,11 +248,5 @@ This project is open source and available under the MIT License.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
 
-If you have any questions or need help with setup, please feel free to reach out!
-
----
-
-**Built with ❤️ using Next.js and React**
 
